@@ -10,8 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@react-email/components": "0.0.14",
-    "@react-email/tailwind": "^0.0.14",
-    "react-email": "~2.0.0"
+    "@react-email/components": "latest",
+    "@react-email/tailwind": "latest",
+    "react-email": "latest"
   }
 }
